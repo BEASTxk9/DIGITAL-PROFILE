@@ -61,7 +61,7 @@ h1, h2{
 }
 
 .aboutsec{
-    height: 100vh;
+    height: 110vh;
     background-color: rgba(250, 235, 215, 0.725);
     position: relative;
     top: 3vh;
@@ -73,7 +73,7 @@ h1, h2{
 
 .experiencesec{
     text-align: left;
-    height: 210vh;
+    height: 220vh;
     background-color: rgba(250, 235, 215, 0.725);
     position: relative;
     top: 3vh;
@@ -86,7 +86,7 @@ box-shadow: 1px 0px 20px 13px rgba(234, 146, 0, 0.8);
 }
 
 .projectssec{
-    height: 100vh;
+    height: 110vh;
     background-color: rgba(250, 235, 215, 0.725);
     position: relative;
     top: 3vh;
@@ -98,7 +98,7 @@ box-shadow: 1px 0px 20px 13px rgba(234, 146, 0, 0.8);
 
 .testimonialsec{
     text-align: left;
-    height: 210vh;
+    height: 100vh;
     background-color: rgba(250, 235, 215, 0.725);
     position: relative;
     top: 3vh;
